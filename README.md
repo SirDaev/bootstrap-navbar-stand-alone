@@ -8,7 +8,7 @@ Current: Bootstrap v3.3.7
 These files include a direct pull from a [customized version of Bootstrap](http://getbootstrap.com/customize/), reproduceable using the config.json file. *bootstrap-theme.css* has been omitted for this repository.
 
 ## Files
-html - complete example file set  
+html/ - complete example file set  
 README.md - readme  
 bootstrap.zip - customized Bootstrap direct download (using config.json)  
 config.json - configuration for customized Bootstrap download
